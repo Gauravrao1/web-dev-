@@ -1,0 +1,9 @@
+.container{
+        background-color: rgba(120, 120, 113, 0.71);
+        
+        color: rgb(255, 255, 255);
+        font-weight: 700;
+}
+.btn-info{
+        background-color: pink;
+}

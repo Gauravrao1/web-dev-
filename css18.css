@@ -1,0 +1,26 @@
+body{
+        color: white;
+    font-style :Georgia;
+}
+h1{
+        color: #00ffff;
+        text-align: center;
+         text-decoration:underline black ;
+}
+h3{
+        text-align: center;
+        color:black ;
+}
+p{
+        color: red;
+        text-align: center;
+        line-height: 30px;
+}
+a{
+       color: #00ff00;
+      text-decoration:  none;
+}
+textarea{
+
+        color:#000000;
+}

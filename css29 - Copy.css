@@ -1,0 +1,16 @@
+div{
+        height: 200px;
+        width: 200px;
+        background-color: #4dff00ff;
+        transition: 1s;
+}
+#opacity{
+        background-color: #ffa511;
+        opacity: 0.69534;
+}
+div:hover{
+        background-color: rgb(210, 0, 252);
+        border-radius: 50%;
+
+
+}
